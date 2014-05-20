@@ -1,4 +1,4 @@
-<center> <h2>LUZ MARIA PASINI </h2> <h3>Redmond, WA | (425) 283-7379 | Luzmaria.Pasini@gmail.com </h3></center>
+<center> <h2>LUZ MARIA PASINI </h2> <h4>Redmond, WA | (425) 283-7379 | Luzmaria.Pasini@gmail.com </h4></center>
 <br/>
 <center>SUMMARY OF QUALIFICATIONS </center>
 
