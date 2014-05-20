@@ -1,6 +1,6 @@
 <center> <h2>LUZ MARIA PASINI </h2> <h4>Redmond, WA | (425) 283-7379 | Luzmaria.Pasini@gmail.com </h4></center>
 <br/>
-<center>SUMMARY OF QUALIFICATIONS </center>
+##### SUMMARY OF QUALIFICATIONS
 
 Highly analytical Industrial Engineer and Business Analyst experienced in moving projects along while interacting with cross functional teams such as engineering, sales, finance and IT. A team leader, able to work with both the technical team and business customers. Competent, self-motivated professional with success in assuming increasing levels of responsibility.  Excellent communication and organizational skills and a high aptitude for learning new technologies, systems and concepts. Problem solver and customer focused.
 
