@@ -7,7 +7,7 @@ Highly analytical Industrial Engineer and Business Analyst experienced in moving
 
 Experience
 ---
-* ** 
+* **
 
 <h4>2013-current: EL SOL, Education and Leadership Society for Latinos, Kirkland, WA </h4>
 <h4>Co-Founder and Pilot Program Manager</h4>
@@ -60,8 +60,8 @@ Education
 * Project Management Program. 	Finalized PMP Certificate	
 		
 
-<h3> University of Chile (Best University in Chile, America Economia Ranking), Santiago, Chile </h3>
-
+<h3> University of Chile, Santiago, Chile </h3>
+(Best University in Chile, America Economia Ranking)
 * Bachelor In Science In Engineering 
 * Major In Industrial Engineering	
 * Graduated with honors	
