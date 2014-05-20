@@ -8,8 +8,8 @@ Highly analytical Industrial Engineer and Business Analyst experienced in moving
 
 Experience
 ---
-<h4> 2013-current: EL SOL, Education and Leadership Society for Latinos, Kirkland, WA </h4>
-<h4> Co-Founder and Pilot Program Manager</h4>
+#### 2013-current: EL SOL, Education and Leadership Society for Latinos, Kirkland, WA
+#### Co-Founder and Pilot Program Manager
 
 Mission: Developing the next generation of Latino leaders through STEM education.
 
