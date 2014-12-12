@@ -10,6 +10,23 @@ Highly analytical. Experienced in moving projects along while interacting with c
 
 Experience
 ---
+#### Sept 2014 - current: CASA LATINA, Seattle, WA
+#### Software/ Web Developer
+
+Enhanced and refactored an open-source web database application for managing day worker centers. The web application can be found at https://test.machetessl.org
+
+#### May-Sept  2014: SABIO.LA, Culver City, CA
+#### Full Stack Web Developer – fellow in intensive training program
+
+Designed and built an online application found at http://divmatters.azurewebsites.net/. 
+
+Features of the web application:
+ 
+* Fully responsive UI. User management features.
+* Event, job and conference entry workflows, with search tools for each and featured events
+* Tools utilized: C#, .Net 4.5, MVC 5, Web API, JSON Serialization, AJAX, JavaScript, SQL Server 2012, T-SQL and Agile.
+
+
 #### 2013-current: EL SOL, Education and Leadership Society for Latinos, Kirkland, WA
 #### Co-Founder and Pilot Program Manager
 
