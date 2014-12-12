@@ -3,7 +3,9 @@
 
 ##### SUMMARY OF QUALIFICATIONS
 
-Highly analytical Industrial Engineer and Business Analyst experienced in moving projects along while interacting with cross functional teams such as engineering, sales, finance and IT. A team leader, able to work with both the technical team and business customers. Competent, self-motivated professional with success in assuming increasing levels of responsibility.  Excellent communication and organizational skills and a high aptitude for learning new technologies, systems and concepts. Problem solver and customer focused.
+Industrial Engineer successfully finalized an intense full-stack web development training program in Los Angeles. Developed and built a prototype web application using .NET, MVC, C#, JavaScript, T-SQL, HTML and CSS.
+
+Highly analytical. Experienced in moving projects along while interacting with cross functional teams. A team leader, able to work with both the technical team and business customers. Competent, self-motivated professional with success in assuming increasing levels of responsibility.  Excellent communication and organizational skills and a high aptitude for learning new technologies, systems and concepts. Problem solver and customer focused.
 
 
 Experience
