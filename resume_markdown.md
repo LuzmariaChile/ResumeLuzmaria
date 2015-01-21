@@ -66,7 +66,6 @@ Mission: Developing the next generation of Latino leaders through STEM education
 * Developed Pricing model to support bidding process for new Toyota, GM and P&G business.
 * Lead multidisciplinary team and facilitated continuous communication between Marketing, Engineering, Maintenance and Operations to improve asset utilization. This resulted in new processes that improved profitability and quality.
 * Lead feasibility evaluation of expanding two major intermodal terminals. Highly visible and successful project that increased the operating capacity by 45% and resulted in new revenues.
-* Analyzed customer profitability: Created a model with origin-destination pairs and analyzed the ROI and NPV value of each of the intermodal customers. Model was widely utilized to improve processes and pricing.
 
 
 Education
@@ -93,6 +92,10 @@ Skills
 * LANGUAGES:
     * Fluent in Spanish and English. 
     * Beginner French.
+* COMPUTER LANGUAGES:
+    * C#, .NET, JavaScript
+    * HTML, CSS,
+    * T-SQL
 
 
 
