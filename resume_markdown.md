@@ -84,7 +84,10 @@ Education
 		
 Skills
 ---
-
+* COMPUTER LANGUAGES:
+    * C#, .NET, JavaScript
+    * HTML, CSS,
+    * T-SQL
 * SOFTWARE:	
     * Advanced user of MS Office (Excel, Power Point, and Word).
     * User of Access and SQL. 
@@ -92,10 +95,7 @@ Skills
 * LANGUAGES:
     * Fluent in Spanish and English. 
     * Beginner French.
-* COMPUTER LANGUAGES:
-    * C#, .NET, JavaScript
-    * HTML, CSS,
-    * T-SQL
+
 
 
 
