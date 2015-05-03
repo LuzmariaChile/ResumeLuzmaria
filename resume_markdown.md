@@ -1,5 +1,5 @@
 ## LUZ MARIA PASINI
-#### Redmond, WA | (425) 283-7379 | Luzmaria.Pasini@gmail.com
+#### Redmond, WA | Luzmaria.Pasini@gmail.com
 
 ##### SUMMARY OF QUALIFICATIONS
 
@@ -93,9 +93,7 @@ Skills
     * User of Access and SQL. 
     * Intro to Java Development.
 * LANGUAGES:
-    * Fluent in Spanish and English. 
-    * Beginner French.
-
+    * Fluent in Spanish and English.
 
 
 
