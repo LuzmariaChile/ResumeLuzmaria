@@ -70,6 +70,8 @@ Mission: Developing the next generation of Latino leaders through STEM education
 
 Education
 ---
+<h3>Kal Academy, Redmond, WA</h3>
+*Advanced Programming Courses
 
 <h3>Bellevue College, Bellevue, WA </h3>
 
