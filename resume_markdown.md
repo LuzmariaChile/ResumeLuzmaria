@@ -5,12 +5,27 @@
 
 Industrial Engineer successfully finalized an intense full-stack web development training program in Los Angeles. Developed and built a prototype web application using .NET, MVC, C#, JavaScript, T-SQL, HTML and CSS.
 
-Highly analytical. Experienced in moving projects along while interacting with cross functional teams. A team leader, able to work with both the technical team and business customers. Competent, self-motivated professional with success in assuming increasing levels of responsibility.  Excellent communication and organizational skills and a high aptitude for learning new technologies, systems and concepts. Problem solver and customer focused.
+Highly analytical. Experienced in moving projects along while interacting with cross functional teams. A team leader, able to work with both the technical team and business customers. Competent, self-motivated professional with success in assuming increasing levels of responsibility.  Excellent communication and organizational skills and a high aptitude for learning new technologies, systems and concepts. Problem solver and customer obsessed.
 
 
 Experience
 ---
-#### Sept 2014 - current: CASA LATINA, Seattle, WA
+
+#### Sept 2016 - Sept 2018: MICROSOFT, Redmond, WA
+#### Software Engineer: System Center Configuration Manager (SCCM) Engineering Team
+
+Participated in the development of SCCM features
+Upgraded deshboards to increase customers visibility into their data.
+
+
+#### Sept 2015 - Jul 2016: MICROSOFT, Redmond, WA
+#### Internship Software Developer: Industry Explorers Team
+
+Participated in the Industry Explorers Program sponsored by the Azure Linux Team in Microsoft.
+Developed the backend for the newly created Industry Explorers website. www.industryexplorers.com
+
+
+#### Sept 2014 - May 2015: CASA LATINA, Seattle, WA
 #### Software/ Web Developer
 
 Enhanced and refactored an open-source web database application for managing day worker centers. The web application can be found at https://test.machetessl.org
